@@ -1,0 +1,3 @@
+[submodule "fraud-detection-mlops"]
+	path = fraud-detection-mlops
+	url = https://github.com/MarouaHattab/fraud-detection-mlops.git
