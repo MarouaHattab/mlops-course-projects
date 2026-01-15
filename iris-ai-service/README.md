@@ -605,10 +605,5 @@ iris-ai-service/
 
 ---
 
-## 📝 Licence
-
-MIT License - Libre d'utilisation pour des fins éducatives et commerciales.
-
-
 
 **Bon déploiement ! 🐳**
