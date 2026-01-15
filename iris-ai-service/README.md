@@ -605,26 +605,6 @@ iris-ai-service/
 
 ---
 
-## 👥 Support et Contribution
-
-### Signaler un Bug
-
-Ouvrez une issue sur GitLab avec :
-
-- Description du problème
-- Étapes pour reproduire
-- Logs des conteneurs
-- Version de Docker
-
-### Contribuer
-
-1. Forkez le projet
-2. Créez une branche (`git checkout -b feature/amelioration`)
-3. Committez vos changements (`git commit -am 'Ajout fonctionnalité'`)
-4. Pushez (`git push origin feature/amelioration`)
-5. Ouvrez une Merge Request
-
-
 ## 📝 Licence
 
 MIT License - Libre d'utilisation pour des fins éducatives et commerciales.
