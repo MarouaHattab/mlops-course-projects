@@ -123,4 +123,6 @@ L'usage de ZenML apporte une **reproductibilité** totale. Pour GitLab CI, il su
 
 ### Captures d'écran
 ![Pipeline ZenML](img/zenml-pipeline.png)
+![Pipeline ZenML](img/pipeline.png)
+![Pipeline ZenML](img/another-pipeline.png)
 ![MLflow Comparison](img/mlflow.png)
