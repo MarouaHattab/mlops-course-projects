@@ -79,13 +79,3 @@ Invoke-RestMethod -Uri "http://localhost:8085/predictions/yolo" -Method POST -In
 *   **Export ONNX** : Le modèle a été exporté vers `models/weights/best.onnx` pour une compatibilité accrue.
 *   **GitLab CI** : Pipeline automatisé configuré dans `.gitlab-ci.yml` pour le packaging et le build d'image.
 
----
-
-## 📚 Livrables
-*   **Lien Fork GitLab** : [Votre lien ici]
-*   **Images de tests** : Disponibles dans le dossier `img/`.
-*   **Documentation** : Ce fichier `README.md` fait office de rapport final.
-
----
-
-**Développé dans le cadre du cours MLOps 2025-26.**
